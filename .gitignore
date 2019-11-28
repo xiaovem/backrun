@@ -1,10 +1,11 @@
-# Windows平台
+﻿# Windows平台
 *.ncb
 *.suo
 *.user
 Debug
 Release
 Temp
+Build
 
 # Mac
 .DS_Store
